@@ -3,4 +3,3 @@
 # TODO-3: - Import the logo from hangman_art.py and print it at the start of the game.
 # TODO-4: - If the user has entered a letter they've already guessed, print the letter and let them know.
 # TODO-5: - If the letter is not in the chosen_word, print out the letter and let them know it's not in the word.
-1
